@@ -1,107 +1,100 @@
-<!-- A clean, visual GitHub profile for Mohammad Fadhli Fakhruzzaman -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0891B2&height=190&section=header&text=Mohammad%20Fadhli%20Fakhruzzaman&fontSize=33&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Developer%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlignY=61" alt="Mohammad Fadhli Fakhruzzaman" />
+<img src="./assets/portfolio-hero.svg" alt="Mohammad Fadhli Fakhruzzaman — portfolio cover" width="100%" />
 
-<a href="https://portofolio-fadhli.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mohammadfadhli27"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mohfadli095@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br/>
 
-<br /><br />
+<a href="https://portofolio-fadhli.netlify.app"><img src="https://img.shields.io/badge/◈_PORTFOLIO-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammadfadhli27"><img src="https://img.shields.io/badge/↗_LINKEDIN-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="LinkedIn"/></a>
+<a href="mailto:mohfadli095@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="Email"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=36&lines=Building+intelligent+digital+experiences;From+AI+agents+to+thoughtful+interfaces;Design.+Develop.+Iterate." alt="Animated developer introduction" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=17&duration=3400&pause=1200&color=C47757&center=true&vCenter=true&width=650&height=35&lines=Building+AI-powered+digital+experiences;Crafting+interfaces+with+purpose;Where+design+meets+engineering" alt="Animated introduction"/>
 
 </div>
 
-### 01 / About me
+### ✦ 01 — A little about me
 
-I'm a **Multimedia Engineering Technology graduate** from **Politeknik Elektronika Negeri Surabaya (PENS)**, Indonesia. I enjoy connecting **artificial intelligence, software engineering, and visual design** to build products that are both useful and intuitive.
+I'm a **Multimedia Engineering Technology graduate from PENS, Indonesia**, working at the intersection of **AI engineering, web development, and visual design**. I enjoy turning complex ideas into intuitive, useful products.
 
-<table>
-<tr>
-<td width="33%" valign="top"><b>🤖 AI Engineering</b><br/><sub>LLMs · Agentic AI · RAG · Generative AI</sub></td>
-<td width="33%" valign="top"><b>💻 Software Development</b><br/><sub>Web apps · APIs · Backend systems</sub></td>
-<td width="33%" valign="top"><b>🎨 Product & UI/UX</b><br/><sub>Interfaces · Prototyping · Visual design</sub></td>
-</tr>
-</table>
+| `01 / INTELLIGENCE` | `02 / ENGINEERING` | `03 / EXPERIENCE` |
+|:--|:--|:--|
+| **AI Agents & RAG** | **Web & APIs** | **UI/UX & Visuals** |
+| LLMs, Generative AI, retrieval pipelines | Frontend, backend, integrations | Prototyping, interaction, design systems |
 
-### 02 / Technologies
+### ✦ 02 — My toolkit
 
 <div align="center">
 
-**Languages & Web**
+**LANGUAGES & FRAMEWORKS**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind&theme=dark&perline=9" alt="Languages and web development technologies" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,tailwind&perline=8" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI and Tailwind CSS"/>
 
-**Backend, Tools & Design**
+**DATABASE · DEVOPS · DESIGN**
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,figma,ps,ai&theme=dark&perline=8" alt="Backend, tools and design software" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,figma,ps,ai&perline=7" alt="PostgreSQL, Docker, Git, GitHub, Figma, Photoshop and Illustrator"/>
 
-<sub>Also exploring LLM orchestration, RAG pipelines, Ollama, vLLM, and AI agents.</sub>
+<sub>LLMs · RAG · AI Agents · Ollama · vLLM · API Development</sub>
 
 </div>
 
-### 03 / Selected work
+### ✦ 03 — Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤖 DARSI</h3>
-<b>Digital Assistant for RSI</b><br/><br/>
-AI-powered hospital assistant supporting information services with LLMs, retrieval-augmented generation, and intelligent agents.<br/><br/>
-<code>Python</code> <code>RAG</code> <code>LLM</code> <code>AI Agents</code>
+  <h3>🤖 DARSI</h3>
+  <b>Digital Assistant for RSI</b>
+  <p>AI-powered hospital assistant for customer service and information access, built around LLMs, retrieval-augmented generation, and intelligent agents.</p>
+  <code>AI AGENTS</code> <code>RAG</code> <code>PYTHON</code>
 </td>
 <td width="50%" valign="top">
-<h3>📦 Indospring Inventory</h3>
-<b>Inventory Management Web App</b><br/><br/>
-A web application for tracking inventory, incoming and outgoing transactions, and stock reporting.<br/><br/>
-<a href="https://github.com/mohfadhli27/indospring-inventory"><b>Repository</b></a> · <a href="https://indospring-inventory.vercel.app/"><b>Live Demo</b></a>
+  <h3>📦 Indospring Inventory</h3>
+  <b>Inventory Management System</b>
+  <p>Web-based inventory tracking, incoming/outgoing transactions, and stock reporting.</p>
+  <a href="https://indospring-inventory.vercel.app/"><b>↗ Live website</b></a> &nbsp;·&nbsp; <a href="https://github.com/mohfadhli27/indospring-inventory"><b>⌘ Source code</b></a>
 </td>
 </tr>
 </table>
 
-### 04 / GitHub insights
+<div align="center"><sub>MORE PROJECTS & CREATIVE WORK AT <a href="https://portofolio-fadhli.netlify.app">MY PORTFOLIO ↗</a></sub></div>
+
+### ✦ 04 — Developer activity
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0284C7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true" alt="GitHub statistics" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4A373&text_color=E7E1D9&icon_color=C47757"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=A9684E&text_color=51483E&icon_color=C47757"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true" alt="GitHub statistics"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true" alt="Most used languages" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4A373&text_color=E7E1D9"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A9684E&text_color=51483E"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true" alt="Most used languages"/>
 </picture>
 </div>
 
-### 05 / Contribution arcade
+### ✦ 05 — Contribution playground
 
 <div align="center">
 
-**Snake · Contribution trail**
+<sub>THE SNAKE TRAIL</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Animated Snake contribution graph" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Snake contribution animation"/>
 </picture>
 
-<br />
-
-**Pac-Man · Contribution chase**
+<sub>PAC-MAN ARCADE</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" alt="Animated Pac-Man contribution graph" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man contribution animation"/>
 </picture>
 
-<br />
-
-<sub>Made with curiosity, built with purpose. 🇮🇩</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0891B2&height=90&section=footer" alt="Footer wave" />
+<sub>✦ DESIGN WITH INTENTION. BUILD WITH CURIOSITY. ✦</sub>
 
 </div>
