@@ -39,26 +39,32 @@ I'm a **Multimedia Engineering Technology graduate from PENS, Indonesia**, worki
 
 </div>
 
-### ✦ 03 — Selected projects
+### ✦ 03 — Selected work
+
+<sub>FEATURED PROJECTS / AI & DIGITAL HEALTHCARE</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3>🤖 DARSI</h3>
+  <p><b>01 / AI ENGINEERING</b></p>
+  <h3>✦ DARSI</h3>
   <b>Digital Assistant for RSI</b>
-  <p>AI-powered hospital assistant for customer service and information access, built around LLMs, retrieval-augmented generation, and intelligent agents.</p>
-  <code>AI AGENTS</code> <code>RAG</code> <code>PYTHON</code>
+  <p>An AI-powered assistant supporting hospital customer service and information access through retrieval-augmented generation and intelligent agents.</p>
+  <p><code>GENERATIVE AI</code> <code>AGENTIC RAG</code> <code>HEALTHCARE</code></p>
+  <sub>HOSPITAL INFORMATION ASSISTANT</sub>
 </td>
 <td width="50%" valign="top">
-  <h3>📦 Indospring Inventory</h3>
-  <b>Inventory Management System</b>
-  <p>Web-based inventory tracking, incoming/outgoing transactions, and stock reporting.</p>
-  <a href="https://indospring-inventory.vercel.app/"><b>↗ Live website</b></a> &nbsp;·&nbsp; <a href="https://github.com/mohfadhli27/indospring-inventory"><b>⌘ Source code</b></a>
+  <p><b>02 / AI PRODUCT DEVELOPMENT</b></p>
+  <h3>✦ SAPADARSI</h3>
+  <b>AI-Powered Patient Consultation Platform</b>
+  <p>A patient-facing consultation platform with AI doctor, midwife and pharmacist agents, plus staff monitoring and consultation approval workflows.</p>
+  <p><code>NEXT.JS</code> <code>TYPESCRIPT</code> <code>AI AGENTS</code></p>
+  <a href="https://github.com/mohfadhli27/sapadarsi"><b>↗ Explore repository</b></a>
 </td>
 </tr>
 </table>
 
-<div align="center"><sub>MORE PROJECTS & CREATIVE WORK AT <a href="https://portofolio-fadhli.netlify.app">MY PORTFOLIO ↗</a></sub></div>
+<div align="center"><sub>EXPLORE MORE DESIGN & DEVELOPMENT WORK ON <a href="https://portofolio-fadhli.netlify.app">MY PORTFOLIO ↗</a></sub></div>
 
 ### ✦ 04 — Developer activity
 
