@@ -1,128 +1,80 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Fadhli (RUZZ) and I'm an AI Agent · UI/UX · Front-end Developer, from Indonesia 🇮🇩</h2>
 
-###
+<h2 align="center">Mohammad Fadhli Fakhruzzaman</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&langs_count=6&theme=dracula&hide_border=false&locale=en" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  AI Developer · Frontend Developer · UI/UX Designer
+</p>
 
-###
+<p align="center">
+  <a href="https://portofolio-fadhli.netlify.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohammadfadhli27">LinkedIn</a> ·
+  <a href="mailto:mohfadli095@gmail.com">Email</a>
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+---
 
-###
+### About
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-</div>
+Multimedia Engineering Technology graduate from **Politeknik Elektronika Negeri Surabaya (PENS)**, Indonesia.
 
-###
+Interested in building intelligent systems, modern web applications, and intuitive digital experiences.
 
-<div data-importer="socials" align="left">
-  <a href="https://portofolio-fadhli.netlify.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammadfadhli27" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://instagram.com/mohfadhli_" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
-  </a>
-  <a href="mailto:mohfadli095@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
+- **AI Engineering** — LLMs, RAG, AI Agents, and Generative AI
+- **Development** — Full-stack web applications and API integration
+- **Design** — UI/UX, visual design, and interactive interfaces
 
-###
+### Tech Stack
 
-<br clear="both">
+**Languages**
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Snake animation" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-###
+**Frameworks & Technologies**
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-###
+**Tools & Platforms**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohfadhli27&theme=dracula&hide_border=false" alt="GitHub streak" />
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-###
+### Featured Projects
 
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" alt="wave" />
-</div>
+**DARSI — Digital Assistant for RSI**
 
-###
+An AI-powered hospital assistant integrating Large Language Models, Retrieval-Augmented Generation, and intelligent agents to support hospital services.
 
-<p data-importer="text" align="left">Hello World!! — Mahasiswa Multimedia Engineering @ PENS · building AI agents, UI/UX & front-end products.</p>
+**[Indospring Inventory](https://github.com/mohfadhli27/indospring-inventory)**
 
-###
+A web-based inventory management application for managing stock, incoming and outgoing transactions, and inventory reporting.
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/mohammadfadhli27" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/mohfadhli_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:mohfadli095@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://portofolio-fadhli.netlify.app" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="portfolio logo" />
-  </a>
-</div>
+[Live Demo](https://indospring-inventory.vercel.app/)
 
-###
+### GitHub Statistics
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&theme=default&hide_border=true" />
+</p>
 
-###
+### Contributions
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Snake contribution animation" />
+</p>
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
+</p>
