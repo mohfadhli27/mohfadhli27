@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/mario-style-header.svg" alt="Mohammad Fadhli Fakhruzzaman — Mario Bros pixel art profile header" width="100%" />
+<img src="./assets/mario-style-header.svg" alt="Mohammad Fadhli Fakhruzzaman — burgundy pixel art profile header" width="100%" />
 
 <br/>
 
-<a href="https://portofolio-fadhli.netlify.app"><img src="https://img.shields.io/badge/◈_PORTFOLIO-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/mohammadfadhli27"><img src="https://img.shields.io/badge/↗_LINKEDIN-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="LinkedIn"/></a>
-<a href="mailto:mohfadli095@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-CA795A?style=for-the-badge&labelColor=F8F4EB&color=CA795A" alt="Email"/></a>
+<a href="https://portofolio-fadhli.netlify.app"><img src="https://img.shields.io/badge/◈_PORTFOLIO-8D2C49?style=for-the-badge&labelColor=25192C&color=8D2C49" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammadfadhli27"><img src="https://img.shields.io/badge/↗_LINKEDIN-8D2C49?style=for-the-badge&labelColor=25192C&color=8D2C49" alt="LinkedIn"/></a>
+<a href="mailto:mohfadli095@gmail.com"><img src="https://img.shields.io/badge/✉_CONTACT-8D2C49?style=for-the-badge&labelColor=25192C&color=8D2C49" alt="Email"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=17&duration=3400&pause=1200&color=C47757&center=true&vCenter=true&width=650&height=35&lines=Building+AI-powered+digital+experiences;Crafting+interfaces+with+purpose;Where+design+meets+engineering" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=17&duration=3400&pause=1200&color=C57B90&center=true&vCenter=true&width=650&height=35&lines=Building+AI-powered+digital+experiences;Crafting+interfaces+with+purpose;Where+design+meets+engineering" alt="Animated introduction"/>
 
 </div>
 
@@ -70,13 +70,13 @@ I'm a **Multimedia Engineering Technology graduate from PENS, Indonesia**, worki
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4A373&text_color=E7E1D9&icon_color=C47757"/>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=A9684E&text_color=51483E&icon_color=C47757"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=1A1225&title_color=E8A8BC&text_color=F2DDE5&icon_color=C57B90"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=FFF5F7&title_color=8D2C49&text_color=56304B&icon_color=C57B90"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true" alt="GitHub statistics"/>
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4A373&text_color=E7E1D9"/>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A9684E&text_color=51483E"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=1A1225&title_color=E8A8BC&text_color=F2DDE5"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=FFF5F7&title_color=8D2C49&text_color=56304B"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true" alt="Most used languages"/>
 </picture>
 </div>
