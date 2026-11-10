@@ -1,62 +1,107 @@
-<h2 align="center">Mohammad Fadhli Fakhruzzaman</h2>
+<!-- A clean, visual GitHub profile for Mohammad Fadhli Fakhruzzaman -->
 
-<p align="center">
-  AI Developer &nbsp;·&nbsp; Frontend Developer &nbsp;·&nbsp; UI/UX Designer
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://portofolio-fadhli.netlify.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mohammadfadhli27">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:mohfadli095@gmail.com">Email</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0891B2&height=190&section=header&text=Mohammad%20Fadhli%20Fakhruzzaman&fontSize=33&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Developer%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descSize=15&descAlignY=61" alt="Mohammad Fadhli Fakhruzzaman" />
 
----
+<a href="https://portofolio-fadhli.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammadfadhli27"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohfadli095@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### About
+<br /><br />
 
-Multimedia Engineering Technology graduate from **Politeknik Elektronika Negeri Surabaya (PENS)**, Indonesia. I build AI-powered applications, modern web experiences, and intuitive interfaces.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=36&lines=Building+intelligent+digital+experiences;From+AI+agents+to+thoughtful+interfaces;Design.+Develop.+Iterate." alt="Animated developer introduction" />
 
-- **AI** — LLMs, RAG, AI Agents, and Generative AI
-- **Development** — Web applications, APIs, and backend integration
-- **Design** — UI/UX, prototyping, and visual communication
+</div>
 
-### Tech Stack
+### 01 / About me
 
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+I'm a **Multimedia Engineering Technology graduate** from **Politeknik Elektronika Negeri Surabaya (PENS)**, Indonesia. I enjoy connecting **artificial intelligence, software engineering, and visual design** to build products that are both useful and intuitive.
 
-**Web & Backend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top"><b>🤖 AI Engineering</b><br/><sub>LLMs · Agentic AI · RAG · Generative AI</sub></td>
+<td width="33%" valign="top"><b>💻 Software Development</b><br/><sub>Web apps · APIs · Backend systems</sub></td>
+<td width="33%" valign="top"><b>🎨 Product & UI/UX</b><br/><sub>Interfaces · Prototyping · Visual design</sub></td>
+</tr>
+</table>
 
-**Tools** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 02 / Technologies
 
-### Selected Projects
+<div align="center">
 
-**DARSI — Digital Assistant for RSI**  
-AI-powered hospital assistant using LLMs, Retrieval-Augmented Generation, and AI agents to support hospital information services.
+**Languages & Web**
 
-**[Indospring Inventory](https://github.com/mohfadhli27/indospring-inventory)**  
-Web-based inventory management for stock monitoring and incoming/outgoing transactions. · [Live demo](https://indospring-inventory.vercel.app/)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind&theme=dark&perline=9" alt="Languages and web development technologies" />
 
-### GitHub Activity
+**Backend, Tools & Design**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&theme=transparent" height="155" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&theme=transparent" height="155" alt="Most used languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,figma,ps,ai&theme=dark&perline=8" alt="Backend, tools and design software" />
 
-### Contributions
+<sub>Also exploring LLM orchestration, RAG pipelines, Ollama, vLLM, and AI agents.</sub>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" width="100%" alt="Snake contribution animation" />
-  </picture>
-</p>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution animation" />
-  </picture>
-</p>
+### 03 / Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 DARSI</h3>
+<b>Digital Assistant for RSI</b><br/><br/>
+AI-powered hospital assistant supporting information services with LLMs, retrieval-augmented generation, and intelligent agents.<br/><br/>
+<code>Python</code> <code>RAG</code> <code>LLM</code> <code>AI Agents</code>
+</td>
+<td width="50%" valign="top">
+<h3>📦 Indospring Inventory</h3>
+<b>Inventory Management Web App</b><br/><br/>
+A web application for tracking inventory, incoming and outgoing transactions, and stock reporting.<br/><br/>
+<a href="https://github.com/mohfadhli27/indospring-inventory"><b>Repository</b></a> · <a href="https://indospring-inventory.vercel.app/"><b>Live Demo</b></a>
+</td>
+</tr>
+</table>
+
+### 04 / GitHub insights
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0284C7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohfadhli27&show_icons=true&hide_border=true" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohfadhli27&layout=compact&hide_border=true" alt="Most used languages" />
+</picture>
+</div>
+
+### 05 / Contribution arcade
+
+<div align="center">
+
+**Snake · Contribution trail**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/snake-output/snake.svg" alt="Animated Snake contribution graph" />
+</picture>
+
+<br />
+
+**Pac-Man · Contribution chase**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/mohfadhli27/mohfadhli27/pacman-output/pacman-contribution-graph.svg" alt="Animated Pac-Man contribution graph" />
+</picture>
+
+<br />
+
+<sub>Made with curiosity, built with purpose. 🇮🇩</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0891B2&height=90&section=footer" alt="Footer wave" />
+
+</div>
