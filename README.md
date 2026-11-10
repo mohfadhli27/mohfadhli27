@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/portfolio-hero.svg" alt="Mohammad Fadhli Fakhruzzaman — portfolio cover" width="100%" />
+<img src="./assets/mario-style-header.svg" alt="Mohammad Fadhli Fakhruzzaman — Mario Bros pixel art profile header" width="100%" />
 
 <br/>
 
